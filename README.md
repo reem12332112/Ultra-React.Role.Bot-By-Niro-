@@ -4,7 +4,7 @@
 
 ## 🎏 Tutorials
 
-**Youtube: [YouTube Tutorial](https://youtu.be/)**
+**Youtube: [YouTube Tutorial](https://youtu.be/K7VIBncNCPQ)**
 
 ## 💨 Run the projects
 
